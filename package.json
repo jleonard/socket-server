@@ -1,0 +1,22 @@
+{
+  "name": "socket-server",
+  "version": "0.0.1",
+  "description": "Basic node/socket.io server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jleonard/socket-server.git"
+  },
+  "author": "John Leonard <thejohnleonard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jleonard/socket-server/issues"
+  },
+  "homepage": "https://github.com/jleonard/socket-server",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
